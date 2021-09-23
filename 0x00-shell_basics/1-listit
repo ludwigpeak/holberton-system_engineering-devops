@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
 ls
-=======
-ls -l /0-current_working_directory
->>>>>>> 546eb455e05f06730c93c63695f6380d300707ab
