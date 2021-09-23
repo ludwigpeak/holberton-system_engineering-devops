@@ -1,2 +1,2 @@
 #!/bin/bash
-dirname "$(realpath 0-current_working_directory)"
+ls -l /0-current_working_directory
