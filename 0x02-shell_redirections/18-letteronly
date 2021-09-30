@@ -1,2 +1,2 @@
 #!/bin/bash
-/etc/ssh/sshd_config | sort -d
+echo /etc/ssh/sshd_config | sort -d
